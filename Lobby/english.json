@@ -1,0 +1,45 @@
+{
+  "join": {
+    "1": "<gradient:dark_green:aqua>» <bold><gold>{player}</gold></bold> <rainbow>has joined the server!</rainbow>",
+    "2": "<dark_green>» <gradient:gold:yellow><bold>{player}</bold></gradient> has <italic>finally</italic> arrived!",
+    "3": "<gradient:blue:dark_purple>» <bold>{player}</bold> just landed! <blue>✈</blue>",
+    "4": "<dark_green>» <gold>{player}</gold> is now <gradient:red:yellow>online</gradient>!",
+    "5": "<aqua>» <bold><gradient:gold:yellow>{player}</gradient></bold> logged in!",
+    "6": "<gradient:dark_green:green>» <bold>{player}</bold> joined the game! <yellow>★</yellow>",
+    "7": "<gradient:#ff0000:#00ff00:#0000ff>» <bold>{player}</bold> entered the server! Welcome!</gradient>",
+    "8": "<rainbow>» {player} has appeared!</rainbow> <gradient:yellow:red>Have fun!</gradient>"
+  },
+  "quit": {
+    "1": "<gradient:red:yellow>« <bold><gold>{player}</gold></bold> has left the server!",
+    "2": "<red>« <gradient:gold:yellow><bold>{player}</bold></gradient> is gone... <italic>See you soon!</italic>",
+    "3": "<gradient:gold:red>« <bold>{player}</bold> logged out! <red>✖</red>",
+    "4": "<red>« <gold>{player}</gold> is now <gradient:gray:white>offline</gradient>!",
+    "5": "<red>« <bold>{player}</bold> disappeared! Come back soon!",
+    "6": "<gradient:red:gold>« <bold>{player}</bold> said goodbye! <gray>☾</gray>",
+    "7": "<gradient:#ff0000:#ff00ff>« <bold>{player}</bold> vanished into thin air!</gradient>",
+    "8": "<gradient:dark_purple:red>« {player} disconnected from the matrix!</gradient>"
+  },
+  "restrictions": {
+    "1": "<red>❌ <bold>No!</bold> You are not allowed to {action}!",
+    "2": "<gradient:yellow:red>You cannot {action}! That's forbidden!",
+    "3": "<red>Stop! ✋ This action ({action}) is not permitted.",
+    "4": "<yellow>⚠ <red>This world is protected - {action} not allowed!",
+    "5": "<gradient:gold:red>You don't have permission to {action}!",
+    "6": "<red>This action ({action}) <bold>was blocked</bold> by the <italic>server</italic>!",
+    "7": "<gradient:#ff2200:#ff8800>⛔ Server protection prevented you from {action}!</gradient>",
+    "8": "<gradient:red:white:blue>Access denied: Cannot {action} in developer mode!</gradient>",
+    "9": "<rainbow>⚠ Attempting to {action} has been detected and prevented!</rainbow>"
+  },
+  "actionbar": {
+    "1": "<gradient:red:gold>SERVER IN DEVELOPER MODE</gradient>",
+    "2": "<gradient:blue:dark_purple>Cooked by the Emrage team</gradient>",
+    "3": "<gradient:gold:red:yellow>DEVELOPER ENVIRONMENT - NOT FOR PRODUCTION</gradient>",
+    "4": "<gradient:aqua:blue:dark_purple>Emrage Team Development Server</gradient>"
+  },
+  "welcome": {
+    "title": "<gradient:gold:yellow>Welcome!</gradient>",
+    "subtitle": "<aqua>{player}</aqua>",
+    "message": "<gradient:aqua:blue>Welcome to the server, <gold>{player}</gold>!</gradient>",
+    "warning": "<yellow>Notice: <bold>This server has gameplay restrictions!</bold>"
+  }
+}
