@@ -41,5 +41,8 @@
     "subtitle": "<aqua>{player}</aqua>",
     "message": "<gradient:aqua:blue>Welcome to the server, <gold>{player}</gold>!</gradient>",
     "warning": "<yellow>Notice: <bold>This server has gameplay restrictions!</bold>"
+  }, 
+  "example": {
+    "thisisaTest": "<green> hello world </green>"
   }
 }
